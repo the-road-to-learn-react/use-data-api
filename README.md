@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/use-data-api.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/use-data-api) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/use-data-api.svg)](https://greenkeeper.io/) ![NPM](https://img.shields.io/npm/l/use-data-api.svg)
 
-Custom hook for React Components to fetch data from an API. [Read more about it.](https://www.robinwieruch.de/react-hooks-fetch-data/)
+Custom hook for React Components to fetch data from an API. [Read more about it.](https://www.robinwieruch.de/react-hooks-fetch-data/).
+
+[Example over here.](https://github.com/the-road-to-learn-react/react-hooks-introduction/blob/master/src/useDataApiHook-external-example/index.js)
 
 ## Installation
 
