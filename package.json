@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-road-to-learn-react/use-custom-element.git"
+    "url": "git+https://github.com/the-road-to-learn-react/use-data-api.git"
   },
   "bugs": {
-    "url": "https://github.com/the-road-to-learn-react/use-custom-element/issues"
+    "url": "https://github.com/the-road-to-learn-react/use-data-api/issues"
   },
-  "homepage": "https://github.com/the-road-to-learn-react/use-custom-element#readme",
+  "homepage": "https://github.com/the-road-to-learn-react/use-data-api#readme",
   "dependencies": {
     "axios": "^0.19.0"
   }
