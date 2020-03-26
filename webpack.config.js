@@ -1,3 +1,5 @@
+const CopyPlugin = require('copy-webpack-plugin');
+
 module.exports = {
   entry: './src/index.js',
   output: {
@@ -6,6 +8,11 @@ module.exports = {
     library: 'use-custom-element',
     libraryTarget: 'umd',
   },
+  plugins: [
+    new CopyPlugin([
+      { from: 'src/index.d.ts', to: 'index.d.ts' },
+    ]),
+  ],
   externals: {
     react: 'react',
     'react-dom': 'react-dom',
